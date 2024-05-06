@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\C#MainStudies\Day3CollatzConjecture\Day3CollatzConjecture\bin\Debug\net8.0\Day3CollatzConjecture.exe
+C:\Users\David\Desktop\C#MainStudies\Day3CollatzConjecture\Day3CollatzConjecture\bin\Debug\net8.0\Day3CollatzConjecture.deps.json
+C:\Users\David\Desktop\C#MainStudies\Day3CollatzConjecture\Day3CollatzConjecture\bin\Debug\net8.0\Day3CollatzConjecture.runtimeconfig.json
+C:\Users\David\Desktop\C#MainStudies\Day3CollatzConjecture\Day3CollatzConjecture\bin\Debug\net8.0\Day3CollatzConjecture.dll
+C:\Users\David\Desktop\C#MainStudies\Day3CollatzConjecture\Day3CollatzConjecture\bin\Debug\net8.0\Day3CollatzConjecture.pdb
+C:\Users\David\Desktop\C#MainStudies\Day3CollatzConjecture\Day3CollatzConjecture\obj\Debug\net8.0\Day3CollatzConjecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C#MainStudies\Day3CollatzConjecture\Day3CollatzConjecture\obj\Debug\net8.0\Day3CollatzConjecture.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day3CollatzConjecture\Day3CollatzConjecture\obj\Debug\net8.0\Day3CollatzConjecture.AssemblyInfo.cs
+C:\Users\David\Desktop\C#MainStudies\Day3CollatzConjecture\Day3CollatzConjecture\obj\Debug\net8.0\Day3CollatzConjecture.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day3CollatzConjecture\Day3CollatzConjecture\obj\Debug\net8.0\Day3CollatzConjecture.sourcelink.json
+C:\Users\David\Desktop\C#MainStudies\Day3CollatzConjecture\Day3CollatzConjecture\obj\Debug\net8.0\Day3CollatzConjecture.dll
+C:\Users\David\Desktop\C#MainStudies\Day3CollatzConjecture\Day3CollatzConjecture\obj\Debug\net8.0\refint\Day3CollatzConjecture.dll
+C:\Users\David\Desktop\C#MainStudies\Day3CollatzConjecture\Day3CollatzConjecture\obj\Debug\net8.0\Day3CollatzConjecture.pdb
+C:\Users\David\Desktop\C#MainStudies\Day3CollatzConjecture\Day3CollatzConjecture\obj\Debug\net8.0\Day3CollatzConjecture.genruntimeconfig.cache
+C:\Users\David\Desktop\C#MainStudies\Day3CollatzConjecture\Day3CollatzConjecture\obj\Debug\net8.0\ref\Day3CollatzConjecture.dll
