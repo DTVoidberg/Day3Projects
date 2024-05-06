@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\C#MainStudies\Day3Projhect\Day3Projhect\obj\Debug\net8.0\Day3Projhect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C#MainStudies\Day3Projhect\Day3Projhect\obj\Debug\net8.0\Day3Projhect.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day3Projhect\Day3Projhect\obj\Debug\net8.0\Day3Projhect.AssemblyInfo.cs
+C:\Users\David\Desktop\C#MainStudies\Day3Projhect\Day3Projhect\obj\Debug\net8.0\Day3Projhect.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day3Projhect\Day3Projhect\obj\Debug\net8.0\Day3Projhect.sourcelink.json
+C:\Users\David\Desktop\C#MainStudies\Day3Projhect\Day3Projhect\bin\Debug\net8.0\Day3Projhect.exe
+C:\Users\David\Desktop\C#MainStudies\Day3Projhect\Day3Projhect\bin\Debug\net8.0\Day3Projhect.deps.json
+C:\Users\David\Desktop\C#MainStudies\Day3Projhect\Day3Projhect\bin\Debug\net8.0\Day3Projhect.runtimeconfig.json
+C:\Users\David\Desktop\C#MainStudies\Day3Projhect\Day3Projhect\bin\Debug\net8.0\Day3Projhect.dll
+C:\Users\David\Desktop\C#MainStudies\Day3Projhect\Day3Projhect\bin\Debug\net8.0\Day3Projhect.pdb
+C:\Users\David\Desktop\C#MainStudies\Day3Projhect\Day3Projhect\obj\Debug\net8.0\Day3Projhect.dll
+C:\Users\David\Desktop\C#MainStudies\Day3Projhect\Day3Projhect\obj\Debug\net8.0\refint\Day3Projhect.dll
+C:\Users\David\Desktop\C#MainStudies\Day3Projhect\Day3Projhect\obj\Debug\net8.0\Day3Projhect.pdb
+C:\Users\David\Desktop\C#MainStudies\Day3Projhect\Day3Projhect\obj\Debug\net8.0\Day3Projhect.genruntimeconfig.cache
+C:\Users\David\Desktop\C#MainStudies\Day3Projhect\Day3Projhect\obj\Debug\net8.0\ref\Day3Projhect.dll
